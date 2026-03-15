@@ -6,3 +6,5 @@ Scenario: As an AI Engineer for a prestigious digital archive, i have a tasked w
 * Depth-First Search (DFS)
 * Greedy Best-First Search
 * Iterative Deepening Search (IDS / ID*)
+
+Input: Taken from input.txt (Start state: 123;B46:758; Goal state: 123 456 78B).
